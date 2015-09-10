@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/chrisg/PCBs/LoudMouth/LoudMouth.sch</source>
+    <date>Thu 10 Sep 2015 12:41:52 AM PDT</date>
+    <tool>Eeschema 0.201505220134+5676~23~ubuntu14.04.1-product</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>LoudMouth.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="R101">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F1235D</tstamp>
+    </comp>
+    <comp ref="R102">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F12398</tstamp>
+    </comp>
+    <comp ref="R104">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F123E2</tstamp>
+    </comp>
+    <comp ref="R107">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F12434</tstamp>
+    </comp>
+    <comp ref="C101">
+      <value>C</value>
+      <footprint>Capacitors_SMD:C_1210_HandSoldering</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F1249C</tstamp>
+    </comp>
+    <comp ref="C104">
+      <value>C</value>
+      <footprint>Capacitors_SMD:C_1210_HandSoldering</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F124D3</tstamp>
+    </comp>
+    <comp ref="C103">
+      <value>C</value>
+      <footprint>Capacitors_SMD:C_1210_HandSoldering</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F12557</tstamp>
+    </comp>
+    <comp ref="C102">
+      <value>C</value>
+      <footprint>Capacitors_SMD:C_1210_HandSoldering</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F125A3</tstamp>
+    </comp>
+    <comp ref="R103">
+      <value>0</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F1265C</tstamp>
+    </comp>
+    <comp ref="R106">
+      <value>0</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F128C7</tstamp>
+    </comp>
+    <comp ref="R105">
+      <value>0</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F12920</tstamp>
+    </comp>
+    <comp ref="P101">
+      <value>CONN_01X02</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02</footprint>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F12A2C</tstamp>
+    </comp>
+    <comp ref="P102">
+      <value>CONN_01X02</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02</footprint>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F12BCF</tstamp>
+    </comp>
+    <comp ref="P103">
+      <value>CONN_01X02</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02</footprint>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F12C94</tstamp>
+    </comp>
+    <comp ref="TP101">
+      <value>CONN_01X01</value>
+      <footprint>Measurement_Points:Measurement_Point_Round-SMD-Pad_Big</footprint>
+      <libsource lib="conn" part="CONN_01X01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F1613F</tstamp>
+    </comp>
+    <comp ref="TP102">
+      <value>CONN_01X01</value>
+      <footprint>Measurement_Points:Measurement_Point_Round-SMD-Pad_Big</footprint>
+      <libsource lib="conn" part="CONN_01X01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F162D1</tstamp>
+    </comp>
+    <comp ref="TP103">
+      <value>CONN_01X01</value>
+      <footprint>Measurement_Points:Measurement_Point_Round-SMD-Pad_Big</footprint>
+      <libsource lib="conn" part="CONN_01X01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F1666E</tstamp>
+    </comp>
+    <comp ref="Q101">
+      <value>Q_NPN_EBC</value>
+      <footprint>Housings_TO-92:TO-92_Molded_Narrow</footprint>
+      <libsource lib="device" part="Q_NPN_EBC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55F17610</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="Q_NPN_EBC">
+      <description>Transistor NPN (general)</description>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NPN_EBC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="openEm"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="C" type="openCol"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_01X01">
+      <footprints>
+        <fp>Pin_Header_Straight_1X01</fp>
+        <fp>Pin_Header_Angled_1X01</fp>
+        <fp>Socket_Strip_Straight_1X01</fp>
+        <fp>Socket_Strip_Angled_1X01</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_01X02">
+      <footprints>
+        <fp>Pin_Header_Straight_1X02</fp>
+        <fp>Pin_Header_Angled_1X02</fp>
+        <fp>Socket_Strip_Straight_1X02</fp>
+        <fp>Socket_Strip_Angled_1X02</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>/usr/share/kicad/library/device.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>/usr/share/kicad/library/conn.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(C102-Pad2)">
+      <node ref="R106" pin="1"/>
+      <node ref="C102" pin="2"/>
+      <node ref="R107" pin="1"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="P101" pin="2"/>
+      <node ref="C102" pin="1"/>
+      <node ref="R107" pin="2"/>
+      <node ref="R102" pin="2"/>
+      <node ref="P102" pin="2"/>
+      <node ref="C103" pin="1"/>
+      <node ref="P103" pin="2"/>
+    </net>
+    <net code="3" name="/COLLECTOR">
+      <node ref="R105" pin="1"/>
+      <node ref="Q101" pin="3"/>
+    </net>
+    <net code="4" name="/EMITTER">
+      <node ref="R106" pin="2"/>
+      <node ref="Q101" pin="1"/>
+    </net>
+    <net code="5" name="/BASE">
+      <node ref="Q101" pin="2"/>
+      <node ref="R103" pin="1"/>
+    </net>
+    <net code="6" name="Net-(C104-Pad2)">
+      <node ref="R104" pin="2"/>
+      <node ref="C104" pin="2"/>
+      <node ref="R105" pin="2"/>
+    </net>
+    <net code="7" name="/OUT">
+      <node ref="P103" pin="1"/>
+      <node ref="C104" pin="1"/>
+      <node ref="TP103" pin="1"/>
+    </net>
+    <net code="8" name="/IN">
+      <node ref="C101" pin="2"/>
+      <node ref="TP101" pin="1"/>
+      <node ref="P101" pin="1"/>
+    </net>
+    <net code="9" name="/VCC">
+      <node ref="P102" pin="1"/>
+      <node ref="R101" pin="1"/>
+      <node ref="TP102" pin="1"/>
+      <node ref="R104" pin="1"/>
+      <node ref="C103" pin="2"/>
+    </net>
+    <net code="10" name="Net-(C101-Pad1)">
+      <node ref="C101" pin="1"/>
+      <node ref="R103" pin="2"/>
+      <node ref="R102" pin="1"/>
+      <node ref="R101" pin="2"/>
+    </net>
+  </nets>
+</export>
