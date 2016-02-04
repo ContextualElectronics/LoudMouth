@@ -1,4 +1,4 @@
-update=1/31/2016 10:16:20 PM
+update=Thu 04 Feb 2016 12:57:07 AM EST
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=ClassD
+LibName31=/home/vagrant/PCBs/Central-Command/Hardware/stm32f030c8
